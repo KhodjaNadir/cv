@@ -59,7 +59,7 @@ hr {
 
 .mountain_image {
     margin: 30px auto 30px auto;
-    width: 60rem;
+    max-width: 70%;
 }
 
 
